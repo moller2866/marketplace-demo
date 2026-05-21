@@ -7,9 +7,13 @@
     },
     "metadata": {
         "description": "A marketplace for my personal plugins",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "pluginRoot": "./plugins"
       },
     "plugins": [
-
+        {
+            "name": "hello-world",
+            "source": "hello-world"
+        }
     ]
 }
