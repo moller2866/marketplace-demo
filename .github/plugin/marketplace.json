@@ -1,0 +1,15 @@
+{
+    "name": "my personal marketplace",
+    "owner": 
+    {
+        "name": "Kasper Møller",
+        "email": "kasper@example.com"
+    },
+    "metadata": {
+        "description": "A marketplace for my personal plugins",
+        "version": "1.0.0"
+      },
+    "plugins": [
+
+    ]
+}
